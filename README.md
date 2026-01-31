@@ -23,6 +23,8 @@ Copy the mod file (.jar) into the mods folder.
 3. Run the Game:
 Open the Minecraft Launcher and select the modloader version you installed.
 Run the game. If the mod is installed correctly, you’ll see changes in the game (Example gui menu, etc).
+(add " -noverify " in launch arguements)
+
 
 **Credits:**  
 3000IQPLAY - LEGEND
